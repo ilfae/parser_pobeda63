@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from collections.abc import Mapping
 import pandas as pd
 import os
 import openpyxl
