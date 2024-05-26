@@ -28,10 +28,21 @@
 > Этот проект находится в стадии бета-версии. Его можно использовать прямо сейчас, но будущие изменения сайта могут сделать недействительным работу софта.
 
 
-## Вклад
+Пожертвование
+---
+Мы принимаем следующие криптовалюты:
 
-Любой вклад приветствуется!
-Если есть возможность, поддержите любой монетой
+- **TON**: `UQAC6zTt3t0oNjb51AQcrOazHEzFIHnOj8sOjLPO-GTtCyWl`
+
+- **USDT**(TRC20): `TXzLoiJHAnZc5tL2pyjNdXaF3snmwmg2x5`
+
+- **USDT**(TON): `UQAC6zTt3t0oNjb51AQcrOazHEzFIHnOj8sOjLPO-GTtCyWl`
+
+- **NOTCOIN**(TON): `UQAC6zTt3t0oNjb51AQcrOazHEzFIHnOj8sOjLPO-GTtCyWl`
+
+- **BTC**: `122j6k2GTz3roZsiX9H2QAyqec83tmsP6q`
+
+Пожертвования будут использованы для поддержания/сохранения проекта.
 
 https://clck.ru/33AA46 - qiwi или любым другим банком
 
