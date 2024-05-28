@@ -1,4 +1,5 @@
 <img src="https://github.com/VemLavarALoucaGamers/vlalg-nimbus/blob/main/editable/github-star.gif" alt="nimbus-star" />
+
 # parser_pobeda63
 Парсер с графическим интерфейсом, который быстро выдаст список товаров (название|цена) из сайта [победа-63](https://xn--80aaa0cvac.xn---63-5cdesg4ei.xn--p1ai/)
 
